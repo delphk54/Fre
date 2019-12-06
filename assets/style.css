@@ -42,7 +42,11 @@ main figure{
         height: 3em;
         font-size: 1em;
  } 
-
+.images div img{
+   
+    height:255px;
+    width: 255px;
+}
 
 
     
