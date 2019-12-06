@@ -20,6 +20,19 @@ main figure{
     width: 50em;
     margin: auto;
 }
-    
+ main div{
+     display: block;
+     text-align: center;
+
+ }  
+ button{
+        color:white;
+        background-color:black;
+        border-color:white;
+        border-bottom-width: 5px;
+        width: 10%;
+        height: 3em;
+        font-size: 1em;
+ } 
 
 
