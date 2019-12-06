@@ -1,0 +1,14 @@
+header section{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.infos{
+    margin-top: 25px;
+}
+
+
