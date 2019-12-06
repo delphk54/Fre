@@ -14,6 +14,12 @@ a{
     color: black;
     font-size: large;
 }
+main figure{
+    background-image: url(https://www.numero.com/sites/default/files/images/flexible_grid/100/2numero_magazine_aout_2018_backstage_greg_kadel_charles_varenne_carly_moore_harleth_kuusik_lina_hoss_andrew_sherman_riley_cole.jpg);
+    height: 20em;
+    width: 50em;
+    margin: auto;
+}
     
 
 
