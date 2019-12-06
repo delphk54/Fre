@@ -15,6 +15,7 @@ a{
     font-size: large;
 }
 main{
+    position: absolute;
     width: 100%;
 }
 main figure{
@@ -46,10 +47,27 @@ main figure{
         font-size: 1em;
  } 
  .images{
-   text-align: center;
-   margin-top: -6%;
-   
+    position: relative;
+    margin: auto;
+
+    display: flex;
+    justify-content: center;
+
  }
+ .images h3{
+     font-family: 'Times New Roman', Times, serif;
+     text-shadow: initial;
+     color: black;
+     position: relative;
+     right: -22%;   
+     top: -50px;
+     
+
+ }
+   
+ 
+ 
+ 
 
 
    
