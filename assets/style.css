@@ -64,22 +64,18 @@ main figure{
  }
  #card{
     display: flex; 
+    
    
+ }
+ .card{
+     display: block;
+     
+
  }
  .texte{
      margin-top: 400px;
- }
- .123
+}
 
    
  
  
- 
-
-
-   
-
-
-    
-
-
