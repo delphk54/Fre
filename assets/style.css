@@ -81,10 +81,20 @@ main figure{
     color: black;
     
 }
+#A{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 250px;
+}
+#B{
+    display: flex;
+    justify-content: space-around;
+    margin-top: -250px;
+}  
 #C{
     display: flex;
     justify-content: space-around;
+    margin-top: -250px;
 }
-   
  
  
