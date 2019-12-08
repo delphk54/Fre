@@ -52,8 +52,7 @@ main figure{
     margin: auto;
     margin-top: 100px;
     display: flex;
-    justify-content: space-evenly;
-    
+    justify-content:space-evenly;    
  }
  .images div img{
      height: 70%;
