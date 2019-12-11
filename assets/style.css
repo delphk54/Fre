@@ -177,7 +177,7 @@ footer{
     transform: scale(1.2);
 }
 .card img:hover{
-    box-shadow: 15px 15px 15px #b3afaf;
+    box-shadow: 15px 15px 15px #b3afaf; 
     -webkit-transition: all 350ms ease-in;
     -webkit-transform: scale(1.2);
     -ms-transition: all 350ms ease-in;
