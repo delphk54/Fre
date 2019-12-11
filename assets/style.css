@@ -1,4 +1,7 @@
-
+body{
+    width: 80%;
+    margin: auto;
+}
 header section{
     display: flex;
     justify-content: space-around; 
@@ -16,7 +19,6 @@ a{
     font-size: large;
 }
 main{
-    position: absolute;
     width: 100%;
 }
 main figure{
@@ -135,8 +137,7 @@ main figure{
    margin-right: 80px;
 }
 footer{
-    position: fixed;
-    bottom: 0;
+    position: relative;
     width: 100%;
    
 }
